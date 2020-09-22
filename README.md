@@ -1,5 +1,8 @@
 ### the name is a d&d reference just so it's clear
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=naturalone)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **naturalone/naturalone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
