@@ -1,4 +1,4 @@
-### Hi there 👋
+### the name is a d&d reference just so it's clear
 
 <!--
 **naturalone/naturalone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
